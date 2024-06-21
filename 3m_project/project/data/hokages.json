@@ -1,0 +1,57 @@
+[
+  {
+    "village": "Konohagakure",
+    "name": "Hashirama Sendju",
+    "isnumber": "1",
+    "age": 46,
+    "isAlive": "dead",
+    "photo": "https://i.pinimg.com/736x/68/88/3f/68883feda3760fc9f200324dfa1b8386.jpg"
+  },
+  {
+    "village": "Konohagakure",
+    "name": "Tobirama Sendju",
+    "isnumber": 2,
+    "age": 56,
+    "isAlive": false,
+    "photo": "https://criticalhits.com.br/wp-content/uploads/2022/10/Hokage-Naruto-Tobirama.jpg"
+  },
+  {
+    "village": "Konohagakure",
+    "name": "Hiruzen Sarutobi",
+    "isnumber": 3,
+    "age": 76,
+    "isAlive": false,
+    "photo": "https://desu.shikimori.one/uploads/poster/characters/7571/main_2x-f56ce776eb67f7615eadacd01855d22e.webp"
+  },
+  {
+    "village": "Konohagakure",
+    "name": "Minato Namikaze",
+    "isnumber": 4,
+    "age": 26,
+    "isAlive": false,
+    "photo": "https://w0.peakpx.com/wallpaper/715/360/HD-wallpaper-minato-namikaze-anime.jpg"
+  },
+  {
+    "village": "Konohagakure",
+    "name": "Tsunade",
+    "isnumber": 5,
+    "age": 56,
+    "isAlive": true,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYleJdJS1jxCF3_RQ03LJCaZDPsU72lkMSGA&s"
+  },
+  {
+    "village": "Konohagakure",
+    "name": "Danzo Shimura",
+    "isnumber": 6,
+    "age": 66,
+    "isAlive": false
+  },
+  {
+    "village": "Konohagakure",
+    "name": "Kakashi Hatake",
+    "isnumber": 7,
+    "age": 36,
+    "isAlive": true
+  }
+]
+
